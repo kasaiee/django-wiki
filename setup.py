@@ -29,12 +29,12 @@ install_requirements = [
     "django-mptt>=0.13,<0.14",
     "django-sekizai>=0.10",
     "sorl-thumbnail>=12.8,<13",
-    "Markdown>=3.1,<3.3",
+    "Markdown>=3.1,<3.4",
 ]
 
 test_requirements = [
     "django-functest>=1.2,<1.3",
-    "pytest>=6.2.5,<6.3",
+    "pytest>=6.2.5,<7.1",
     "pytest-django",
     "pytest-cov",
     "coverage",
